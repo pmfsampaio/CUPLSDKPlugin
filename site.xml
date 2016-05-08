@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/psemb.cupl.feature_1.0.0.201605082039.jar" id="psemb.cupl.feature" version="1.0.0.201605082039">
+   <description name="CUPL SDK" url="http:\">
+      ATMEL CUPL SDK for Eclipse.
+   </description>
+   <feature url="features/psemb.cupl.feature_1.0.0.201605082323.jar" id="psemb.cupl.feature" version="1.0.0.201605082323">
       <category name="CUPL_category"/>
    </feature>
    <category-def name="CUPL_category" label="CUPL SDK Category"/>
