@@ -3,7 +3,10 @@
    <description name="CUPL SDK" url="http:\">
       ATMEL CUPL SDK for Eclipse.
    </description>
-   <feature url="features/psemb.cupl.feature_1.0.0.201605091050.jar" id="psemb.cupl.feature" version="1.0.0.201605091050">
+   <feature url="features/psemb.cupl.feature_1.0.0.201605091144.jar" id="psemb.cupl.feature" version="1.0.0.201605091144">
+      <category name="CUPL_category"/>
+   </feature>
+   <feature url="features/psemb.usbport.feature_1.0.0.201605091144.jar" id="psemb.usbport.feature" version="1.0.0.201605091144">
       <category name="CUPL_category"/>
    </feature>
    <category-def name="CUPL_category" label="ATMEL CUPL SDK"/>
